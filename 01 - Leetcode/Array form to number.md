@@ -7,7 +7,7 @@
 - Use **digit-by-digit addition from the least significant digit** (end of array).
     
 - Simulate **manual addition** like how we do on paper.
-shubh
+
 
 ---
 
@@ -59,4 +59,3 @@ shubh
 - Practical and commonly asked in coding interviews.  
 -
 
-I want to link this note to [[Memoization]].
