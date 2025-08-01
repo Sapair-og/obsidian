@@ -44,7 +44,7 @@ This roadmap is designed to build a single, impressive project that demonstrates
 - **1. Intro to Agents**
   - Learn about agents and the loop: *Thought → Action → Observation → Thought*
   - 🎥 [AssemblyAI Playlist](https://www.google.com/search?q=https://www.youtube.com/playlist%3Flist%3DPLpdmBGJ6ELUIQ-nSzwf_2tK2e-9T1M7bA)
-
+pydantic
 - **2. Learn CrewAI**
   - Understand Agents, Tasks, and Crews.
   - 🎥 [Dave Ebbelaar Playlist](https://www.google.com/search?q=https://www.youtube.com/playlist%3Flist%3DPLjoJJakf992AL235gqHyXBvHh1a9oDb2k)
@@ -56,6 +56,7 @@ This roadmap is designed to build a single, impressive project that demonstrates
 - **4. Build the Feature**
   - Integrate agents in Streamlit and output flashcards as CSV.
   - 📚 [CrewAI Custom Tools Guide](https://www.google.com/search?q=https://docs.crewai.com/how-to/Creating-Custom-Tools/)
+
 
 ### 🔥 Weekly Outcome:
 > Your app can now auto-generate flashcards from a document using agents, downloadable as CSV.
