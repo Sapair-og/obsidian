@@ -1,5 +1,4 @@
 
-
 ## 📌 Problem Definition  
 In an array, an element is called a **leader** if it is **greater than or equal to all elements to its right**.
 
